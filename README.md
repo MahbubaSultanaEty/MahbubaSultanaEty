@@ -2,8 +2,6 @@
   <img src="./banner.gif" alt="Mahbuba Sultana Banner" width="100%" />
 </p>
 
-<h1 align="center">Mahbuba Sultana</h1>
-
 <h3 align="center">
 Frontend Developer | Building responsive, accessible, and user-friendly web applications with React & Next.js
 </h3>
