@@ -31,10 +31,10 @@ I'm a Frontend Developer passionate about building modern, responsive, and user-
 
 ## 🚀 Current Activities
 
-- 🌱 Learning **Next.js**, **Authentication**, and **Backend Integration**
-- 💻 Building real-world projects to strengthen my frontend development skills
-- 🤝 Looking to collaborate on **Open Source** and **Frontend** projects
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js & Tailwind CSS**
+* 🌱 Exploring **AI Integration in Web Projects**, **GSAP**, and modern frontend interactions
+* 💻 Building real-world projects to improve my **full-stack development workflow** and practical problem-solving skills
+* 🤝 Looking to collaborate on **Open Source** and **Full-Stack Web Development** projects
+* 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Better Auth, Authorization & Rest API Integration**
 
 ---
 
