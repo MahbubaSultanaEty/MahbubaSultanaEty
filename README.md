@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Frontend Developer | Building responsive, accessible, and user-friendly web applications with React & Next.js
+ MERN Stack Developer with Frontend Specialization | React, Next.js, Express.js, MongoDB & Better Auth | Exploring Full-Stack Development
 </h3>
 
 <p align="center">
@@ -25,7 +25,9 @@ Frontend Developer | Building responsive, accessible, and user-friendly web appl
 
 ## 👩‍💻 About Me
 
-I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into clean and intuitive user interfaces while continuously improving my skills through real-world projects. Currently, I'm expanding my knowledge of the Next.js ecosystem, authentication, and backend integration.
+I'm a MERN Stack Developer with a frontend specialization, passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into clean and intuitive interfaces while working across the full web development workflow.
+
+My core experience includes React, Next.js, Express.js, MongoDB, and Better Auth, with a strong focus on frontend development and practical full-stack projects. I'm currently exploring AI integration in web applications, GSAP for modern frontend interactions, and deeper full-stack development to build more complete and production-ready applications.
 
 ---
 
