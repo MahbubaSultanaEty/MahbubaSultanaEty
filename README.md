@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./github-banner.png" alt="Mahbuba Sultana Banner" width="100%" />
-</p>
+</p> -->
 
 <h3 align="center">
  MERN Stack Developer with Frontend Specialization | React, Next.js, Express.js, MongoDB & Better Auth | Exploring Full-Stack Development
