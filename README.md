@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/mahbuba-sultana09">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://mahbuba-sultana.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
   <a href="mailto:sultanamahbuba09@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
